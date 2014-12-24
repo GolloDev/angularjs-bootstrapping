@@ -1,0 +1,23 @@
+{
+  "name": "angularjs-bootstrapping",
+  "version": "1.0.0",
+  "description": "Boilerplate for AngularJS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GolloDev/angularjs-bootstrapping.git"
+  },
+  "keywords": [
+    "angularjs",
+    "javascript",
+    "js"
+  ],
+  "author": "Jose Lopez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GolloDev/angularjs-bootstrapping/issues"
+  },
+  "homepage": "https://github.com/GolloDev/angularjs-bootstrapping",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
